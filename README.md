@@ -13,8 +13,8 @@
 
 
 
-you can play it [here](https://halilsekeroglu.github.io/simon-game/
-"Play Simon Game") 
+you can visit it on [here](https://enigmatic-castle-49553.herokuapp.com/blogs
+"BLOG SITE") 
 
 - - -
 ![New Blog Post](public/image/new.png)
