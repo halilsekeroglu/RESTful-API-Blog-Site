@@ -1,0 +1,41 @@
+html {
+	min-height: 100%;
+	position: relative;
+	
+}
+.description {
+	font-size:1.5rem;
+}
+
+i.icon{
+	font-size: 2em;
+}
+
+.container.main{
+	margin-top: 7em;
+}
+
+#delete {
+	display: inline;
+}
+
+.menu {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+	font-size: 12px;
+	letter-spacing: 5px;
+	background-color: #e8e8e8;
+}
+
+.menu a:hover {
+	color: #1abc9c !important;
+}
+
+
+.meta {
+	padding:3px ;
+}
+
