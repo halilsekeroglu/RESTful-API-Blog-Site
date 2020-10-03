@@ -12,7 +12,9 @@
 -CSS3
 
 
-you can visit it [here]("https://enigmatic-castle-49553.herokuapp.com/blogs") 
+
+you can play it [here](https://halilsekeroglu.github.io/simon-game/
+"Play Simon Game") 
 
 - - -
 ![New Blog Post](public/image/new.png)
