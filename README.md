@@ -5,11 +5,11 @@
 
 ---
 ## Technologies Used
--Used new library called Semantic UI(User Interface) instead of Bootstrap.
--NodeJS with Express.
--EJS for templating
--Database(MongoDB) using Mongoose
--CSS3
+- Used new library called Semantic UI(User Interface) instead of Bootstrap.
+- NodeJS with Express.
+- EJS for templating
+- Database(MongoDB) using Mongoose
+- CSS3
 
 
 
